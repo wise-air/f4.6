@@ -32,4 +32,5 @@ source env/bin/activate
 sudo npm install axios
 
 Запускаем клиентскую часть проекта на React:
+
 sudo npm start
